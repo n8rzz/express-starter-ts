@@ -1,0 +1,12 @@
+.cloudbuild
+.generated
+.github
+.jest-cache
+.scripts
+.vscode
+cloudbuild
+docs
+firestore
+node_modules
+tools
+build
